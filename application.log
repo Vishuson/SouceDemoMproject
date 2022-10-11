@@ -1,0 +1,166 @@
+2022-10-09 13:52:39,673  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 13:52:39,807  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 13:52:40,887  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 13:52:41,025  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 13:52:42,090  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 13:52:42,216  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 13:52:43,499  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 13:52:43,628  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 13:52:44,903  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 13:52:45,032  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 13:53:21,217  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 13:53:21,345  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 13:53:24,712  INFO [main] SouceDemoProject:64 - username is entered
+2022-10-09 13:53:24,764  INFO [main] SouceDemoProject:67 - Password is entered
+2022-10-09 13:53:24,849  INFO [main] SouceDemoProject:70 - Clicked on login button
+2022-10-09 13:53:25,072  INFO [main] SouceDemoProject:17 - apply the validation
+2022-10-09 13:53:26,011  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 13:53:26,162  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 13:53:27,082  INFO [main] SouceDemoProject:64 - username is entered
+2022-10-09 13:53:27,145  INFO [main] SouceDemoProject:67 - Password is entered
+2022-10-09 13:53:27,243  INFO [main] SouceDemoProject:70 - Clicked on login button
+2022-10-09 13:53:27,562  INFO [main] SouceDemoProject:19 - bag product will selected
+2022-10-09 13:53:28,394  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 13:53:28,520  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 13:53:29,432  INFO [main] SouceDemoProject:64 - username is entered
+2022-10-09 13:53:29,486  INFO [main] SouceDemoProject:67 - Password is entered
+2022-10-09 13:53:29,567  INFO [main] SouceDemoProject:70 - Clicked on login button
+2022-10-09 13:53:30,964  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 13:53:31,089  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 13:53:32,033  INFO [main] SouceDemoProject:64 - username is entered
+2022-10-09 13:53:32,086  INFO [main] SouceDemoProject:67 - Password is entered
+2022-10-09 13:53:32,166  INFO [main] SouceDemoProject:70 - Clicked on login button
+2022-10-09 13:53:32,578  INFO [main] SouceDemoProject:24 - apply the validation
+2022-10-09 13:53:33,397  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 13:53:33,520  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 13:53:34,414  INFO [main] SouceDemoProject:64 - username is entered
+2022-10-09 13:53:34,464  INFO [main] SouceDemoProject:67 - Password is entered
+2022-10-09 13:53:34,547  INFO [main] SouceDemoProject:70 - Clicked on login button
+2022-10-09 13:53:34,975  INFO [main] SouceDemoProject:17 - All products will get selected
+2022-10-09 15:33:23,123  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 15:33:23,261  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 15:33:24,897  INFO [main] SouceDemoProject:64 - username is entered
+2022-10-09 15:33:24,966  INFO [main] SouceDemoProject:67 - Password is entered
+2022-10-09 15:33:25,079  INFO [main] SouceDemoProject:70 - Clicked on login button
+2022-10-09 15:33:25,305  INFO [main] SouceDemoProject:17 - apply the validation
+2022-10-09 15:33:25,595  INFO [main] SouceDemoProject:82 - browser is closed
+2022-10-09 15:33:25,595  INFO [main] SouceDemoProject:84 - end of Program
+2022-10-09 15:33:26,450  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 15:33:26,578  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 15:33:27,819  INFO [main] SouceDemoProject:64 - username is entered
+2022-10-09 15:33:27,891  INFO [main] SouceDemoProject:67 - Password is entered
+2022-10-09 15:33:27,988  INFO [main] SouceDemoProject:70 - Clicked on login button
+2022-10-09 15:33:28,254  INFO [main] SouceDemoProject:19 - bag product will selected
+2022-10-09 15:33:28,474  INFO [main] SouceDemoProject:82 - browser is closed
+2022-10-09 15:33:28,475  INFO [main] SouceDemoProject:84 - end of Program
+2022-10-09 15:33:29,245  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 15:33:29,368  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 15:33:30,795  INFO [main] SouceDemoProject:64 - username is entered
+2022-10-09 15:33:30,864  INFO [main] SouceDemoProject:67 - Password is entered
+2022-10-09 15:33:30,956  INFO [main] SouceDemoProject:70 - Clicked on login button
+2022-10-09 15:33:31,622  INFO [main] SouceDemoProject:82 - browser is closed
+2022-10-09 15:33:31,622  INFO [main] SouceDemoProject:84 - end of Program
+2022-10-09 15:33:32,398  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 15:33:32,526  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 15:33:33,901  INFO [main] SouceDemoProject:64 - username is entered
+2022-10-09 15:33:33,959  INFO [main] SouceDemoProject:67 - Password is entered
+2022-10-09 15:33:34,041  INFO [main] SouceDemoProject:70 - Clicked on login button
+2022-10-09 15:33:34,416  INFO [main] SouceDemoProject:24 - apply the validation
+2022-10-09 15:33:34,615  INFO [main] SouceDemoProject:82 - browser is closed
+2022-10-09 15:33:34,616  INFO [main] SouceDemoProject:84 - end of Program
+2022-10-09 15:33:35,474  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 15:33:35,593  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 15:33:37,098  INFO [main] SouceDemoProject:64 - username is entered
+2022-10-09 15:33:37,169  INFO [main] SouceDemoProject:67 - Password is entered
+2022-10-09 15:33:37,254  INFO [main] SouceDemoProject:70 - Clicked on login button
+2022-10-09 15:33:37,679  INFO [main] SouceDemoProject:17 - All products will get selected
+2022-10-09 15:33:37,900  INFO [main] SouceDemoProject:82 - browser is closed
+2022-10-09 15:33:37,901  INFO [main] SouceDemoProject:84 - end of Program
+2022-10-09 15:35:05,338  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 15:35:05,461  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 15:35:06,653  INFO [main] SouceDemoProject:53 - opening the soucedemo homepage
+2022-10-09 15:35:06,993  INFO [main] SouceDemoProject:64 - username is entered
+2022-10-09 15:35:07,076  INFO [main] SouceDemoProject:67 - Password is entered
+2022-10-09 15:35:07,178  INFO [main] SouceDemoProject:70 - Clicked on login button
+2022-10-09 15:35:07,409  INFO [main] SouceDemoProject:17 - apply the validation
+2022-10-09 15:35:07,584  INFO [main] SouceDemoProject:82 - browser is closed
+2022-10-09 15:35:07,585  INFO [main] SouceDemoProject:84 - end of Program
+2022-10-09 15:35:08,418  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 15:35:08,549  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 15:35:09,922  INFO [main] SouceDemoProject:53 - opening the soucedemo homepage
+2022-10-09 15:35:10,196  INFO [main] SouceDemoProject:64 - username is entered
+2022-10-09 15:35:10,265  INFO [main] SouceDemoProject:67 - Password is entered
+2022-10-09 15:35:10,344  INFO [main] SouceDemoProject:70 - Clicked on login button
+2022-10-09 15:35:10,632  INFO [main] SouceDemoProject:19 - bag product will selected
+2022-10-09 15:35:10,838  INFO [main] SouceDemoProject:82 - browser is closed
+2022-10-09 15:35:10,839  INFO [main] SouceDemoProject:84 - end of Program
+2022-10-09 15:35:11,679  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 15:35:11,805  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 15:35:12,925  INFO [main] SouceDemoProject:53 - opening the soucedemo homepage
+2022-10-09 15:35:13,205  INFO [main] SouceDemoProject:64 - username is entered
+2022-10-09 15:35:13,264  INFO [main] SouceDemoProject:67 - Password is entered
+2022-10-09 15:35:13,349  INFO [main] SouceDemoProject:70 - Clicked on login button
+2022-10-09 15:35:14,011  INFO [main] SouceDemoProject:82 - browser is closed
+2022-10-09 15:35:14,012  INFO [main] SouceDemoProject:84 - end of Program
+2022-10-09 15:35:14,853  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 15:35:14,976  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 15:35:15,980  INFO [main] SouceDemoProject:53 - opening the soucedemo homepage
+2022-10-09 15:35:16,286  INFO [main] SouceDemoProject:64 - username is entered
+2022-10-09 15:35:16,345  INFO [main] SouceDemoProject:67 - Password is entered
+2022-10-09 15:35:16,436  INFO [main] SouceDemoProject:70 - Clicked on login button
+2022-10-09 15:35:16,845  INFO [main] SouceDemoProject:24 - apply the validation
+2022-10-09 15:35:17,030  INFO [main] SouceDemoProject:82 - browser is closed
+2022-10-09 15:35:17,030  INFO [main] SouceDemoProject:84 - end of Program
+2022-10-09 15:35:17,838  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 15:35:17,966  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 15:35:19,056  INFO [main] SouceDemoProject:53 - opening the soucedemo homepage
+2022-10-09 15:35:19,357  INFO [main] SouceDemoProject:64 - username is entered
+2022-10-09 15:35:19,421  INFO [main] SouceDemoProject:67 - Password is entered
+2022-10-09 15:35:19,506  INFO [main] SouceDemoProject:70 - Clicked on login button
+2022-10-09 15:35:19,918  INFO [main] SouceDemoProject:17 - All products will get selected
+2022-10-09 15:35:20,167  INFO [main] SouceDemoProject:82 - browser is closed
+2022-10-09 15:35:20,167  INFO [main] SouceDemoProject:84 - end of Program
+2022-10-09 21:23:37,498  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 21:23:37,637  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 21:23:39,089  INFO [main] SouceDemoProject:53 - opening the soucedemo homepage
+2022-10-09 21:23:39,460  INFO [main] SouceDemoProject:64 - username is entered
+2022-10-09 21:23:39,531  INFO [main] SouceDemoProject:67 - Password is entered
+2022-10-09 21:23:39,619  INFO [main] SouceDemoProject:70 - Clicked on login button
+2022-10-09 21:23:39,877  INFO [main] SouceDemoProject:17 - apply the validation
+2022-10-09 21:23:40,081  INFO [main] SouceDemoProject:82 - browser is closed
+2022-10-09 21:23:40,081  INFO [main] SouceDemoProject:84 - end of Program
+2022-10-09 21:23:40,806  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 21:23:40,933  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 21:23:42,065  INFO [main] SouceDemoProject:53 - opening the soucedemo homepage
+2022-10-09 21:23:42,396  INFO [main] SouceDemoProject:64 - username is entered
+2022-10-09 21:23:42,459  INFO [main] SouceDemoProject:67 - Password is entered
+2022-10-09 21:23:42,547  INFO [main] SouceDemoProject:70 - Clicked on login button
+2022-10-09 21:23:42,851  INFO [main] SouceDemoProject:19 - bag product will selected
+2022-10-09 21:23:43,032  INFO [main] SouceDemoProject:82 - browser is closed
+2022-10-09 21:23:43,033  INFO [main] SouceDemoProject:84 - end of Program
+2022-10-09 21:23:43,687  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 21:23:43,811  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 21:23:44,913  INFO [main] SouceDemoProject:53 - opening the soucedemo homepage
+2022-10-09 21:23:45,193  INFO [main] SouceDemoProject:64 - username is entered
+2022-10-09 21:23:45,255  INFO [main] SouceDemoProject:67 - Password is entered
+2022-10-09 21:23:45,345  INFO [main] SouceDemoProject:70 - Clicked on login button
+2022-10-09 21:23:46,028  INFO [main] SouceDemoProject:82 - browser is closed
+2022-10-09 21:23:46,028  INFO [main] SouceDemoProject:84 - end of Program
+2022-10-09 21:23:46,746  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 21:23:46,913  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 21:23:47,848  INFO [main] SouceDemoProject:53 - opening the soucedemo homepage
+2022-10-09 21:23:48,181  INFO [main] SouceDemoProject:64 - username is entered
+2022-10-09 21:23:48,233  INFO [main] SouceDemoProject:67 - Password is entered
+2022-10-09 21:23:48,318  INFO [main] SouceDemoProject:70 - Clicked on login button
+2022-10-09 21:23:48,776  INFO [main] SouceDemoProject:24 - apply the validation
+2022-10-09 21:23:48,957  INFO [main] SouceDemoProject:82 - browser is closed
+2022-10-09 21:23:48,958  INFO [main] SouceDemoProject:84 - end of Program
+2022-10-09 21:23:49,676  INFO [main] SouceDemoProject:48 - browser is open
+2022-10-09 21:23:49,812  INFO [main] SouceDemoProject:50 - browser is maximize
+2022-10-09 21:23:50,817  INFO [main] SouceDemoProject:53 - opening the soucedemo homepage
+2022-10-09 21:23:51,066  INFO [main] SouceDemoProject:64 - username is entered
+2022-10-09 21:23:51,139  INFO [main] SouceDemoProject:67 - Password is entered
+2022-10-09 21:23:51,214  INFO [main] SouceDemoProject:70 - Clicked on login button
+2022-10-09 21:23:51,648  INFO [main] SouceDemoProject:17 - All products will get selected
+2022-10-09 21:23:51,848  INFO [main] SouceDemoProject:82 - browser is closed
+2022-10-09 21:23:51,849  INFO [main] SouceDemoProject:84 - end of Program
